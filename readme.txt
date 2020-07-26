@@ -1,2 +1,4 @@
-Hi!
+i!
 This is a web scraping app, that scrapes cars24.com and returns all posted cars pictures and their brand names.
+
+created by Shirly Groysberg
